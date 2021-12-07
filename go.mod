@@ -1,1 +1,1 @@
-module github.com/albscui/aoc2021
+module github.com/albscui/advent-of-code-2021
